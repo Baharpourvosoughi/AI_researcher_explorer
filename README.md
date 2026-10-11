@@ -18,6 +18,7 @@ This repository provides a rigorous pipeline to transform raw bibliographic meta
 ├── requirements.txt   # Project dependencies
 ├── output/            # Schema-validated JSON reports and data outputs
 └── .gitignore         # Version control exclusion rules
+```
 
 ## ⚙️ Tech Stack
 Language: Python 3.x
@@ -39,5 +40,9 @@ Pattern Extraction: Regular Expressions (Regex)
 ```bash
       python analytics.py
 ```
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
